@@ -7,3 +7,5 @@ print("maximum of the array=",arr.max(axis=1))
 print("minimum of the array=",arr.min(axis=1))
 print("cumsum of the array=",arr.cumsum(axis=1))
 print("avg =", np.average(arr))
+
+hello wazid
